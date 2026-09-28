@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/preview.svg" alt="AFX-portfolio- preview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/features.svg" alt="AFX-portfolio- features" width="100%" />
+</p>
+
 # SHAIK ARFAN — AFX Portfolio 2026
 
 A cinematic, responsive portfolio for Shaik Arfan: AI developer, LLM developer, UI/UX designer and frontend developer.
